@@ -1,0 +1,7 @@
+lib/Tie/FlipFlop.pm
+README
+Changes
+MANIFEST
+Makefile.PL
+t/000_tests.t
+META.yml                                 Module meta-data (added by MakeMaker)
